@@ -1,0 +1,9 @@
+c:\users\usuario\documents\visual studio 2015\Projects\STR_Final_Project\STR_Final_Project\bin\Debug\STR_Final_Project.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\STR_Final_Project\STR_Final_Project\bin\Debug\STR_Final_Project.exe
+c:\users\usuario\documents\visual studio 2015\Projects\STR_Final_Project\STR_Final_Project\bin\Debug\STR_Final_Project.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\STR_Final_Project\STR_Final_Project\obj\Debug\STR_Final_Project.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\STR_Final_Project\STR_Final_Project\obj\Debug\STR_Final_Project.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2015\Projects\STR_Final_Project\STR_Final_Project\obj\Debug\STR_Final_Project.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2015\Projects\STR_Final_Project\STR_Final_Project\obj\Debug\STR_Final_Project.exe
+c:\users\usuario\documents\visual studio 2015\Projects\STR_Final_Project\STR_Final_Project\obj\Debug\STR_Final_Project.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\STR_Final_Project\STR_Final_Project\obj\Debug\STR_Final_Project.Form.resources
